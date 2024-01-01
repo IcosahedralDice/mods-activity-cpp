@@ -1,0 +1,17 @@
+avatars/
+py/
+.idea/
+.vscode/
+
+*.png
+*.db
+*.csv
+*.pdf
+*.xopp
+*.bin
+*.mp4
+*.txt
+
+genframeinfo
+gentbl
+
